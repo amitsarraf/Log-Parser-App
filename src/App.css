@@ -6,6 +6,7 @@
   margin-left: -46px;
   width: 100px;
   height: 100px;
+  white-space: nowrap;
 }
 
 .custom-file-upload {
@@ -33,4 +34,16 @@
 .list{
   margin-left: 350px;
     margin-top: 246px;
+}
+
+.loader{
+      margin-left: 48%;
+      margin-top: 15%;
+}
+
+.errormessage{
+  color: red;
+    margin-left: 83px;
+    margin-top: 77px;
+    display: flex;
 }
